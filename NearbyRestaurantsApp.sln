@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearbyRestaurantsApp", "NearbyRestaurantsApp\NearbyRestaurantsApp.csproj", "{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Debug|ARM.Build.0 = Debug|ARM
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Debug|ARM.Deploy.0 = Debug|ARM
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Debug|x64.ActiveCfg = Debug|x64
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Debug|x64.Build.0 = Debug|x64
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Debug|x64.Deploy.0 = Debug|x64
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Debug|x86.ActiveCfg = Debug|x86
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Debug|x86.Build.0 = Debug|x86
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Debug|x86.Deploy.0 = Debug|x86
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Release|ARM.ActiveCfg = Release|ARM
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Release|ARM.Build.0 = Release|ARM
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Release|ARM.Deploy.0 = Release|ARM
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Release|x64.ActiveCfg = Release|x64
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Release|x64.Build.0 = Release|x64
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Release|x64.Deploy.0 = Release|x64
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Release|x86.ActiveCfg = Release|x86
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Release|x86.Build.0 = Release|x86
+		{012A2091-7E88-4E13-A60B-2CE50FFD4EEB}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
